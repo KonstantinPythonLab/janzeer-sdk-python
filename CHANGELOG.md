@@ -3,6 +3,10 @@
 All notable changes to this package. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 and the package follows [Semantic Versioning](https://semver.org/).
 
+## Unreleased
+
+- **Arabic translation of the "Wallet and keys" guide**: [`docs/ar/wallet-and-keys.md`](docs/ar/wallet-and-keys.md) with right-to-left layout and localized technical terminology. Contributed by @genda-benjamin (#6).
+
 ## 0.1.7 — 2026-11-13
 
 No API change. `SPEC_VERSION["node"]` is **0.1.14** (node 0.1.14: supply endpoints `/api/v1/supply`, `/supply/total`, `/supply/circulating`, and circulating supply counted the standard way; API 1.1.0 / protocol 3.4.0 unchanged, rolling upgrade).
