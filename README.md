@@ -49,7 +49,7 @@ methods and return awaitables. See [asyncio](docs/asyncio.md).
 
 | Area | Entry points | Guide |
 |---|---|---|
-| Keys & addresses | `mnemonic`, `Account`, `to_checksum_address`, `is_valid_address` | [wallet-and-keys](docs/wallet-and-keys.md) |
+| Keys & addresses | `mnemonic`, `Account`, `to_checksum_address`, `is_valid_address` | [wallet-and-keys](docs/wallet-and-keys.md)<br>العربية: [docs/ar/wallet-and-keys.md](docs/ar/wallet-and-keys.md) |
 | Transactions | `TxBuilder.transfer / register_validator / exit_validator / token.*` → `UnsignedTx` → `SignedTx` | [sending-transactions](docs/sending-transactions.md) |
 | Amounts | `to_scaled`, `from_scaled`, `format_jnz`, `parse_jnz`, `add_amounts`… | [sending-transactions](docs/sending-transactions.md#amounts) |
 | REST | `JanzeerClient` / `AsyncJanzeerClient`: balances, nonces, transactions, blocks, validators, tokens | [reading-chain-data](docs/reading-chain-data.md) |
