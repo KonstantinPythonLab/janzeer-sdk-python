@@ -3,9 +3,11 @@
 All notable changes to this package. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 and the package follows [Semantic Versioning](https://semver.org/).
 
-## Unreleased
+## 0.1.8 — 2026-11-17
 
-- **Arabic translation of the "Wallet and keys" guide**: [`docs/ar/wallet-and-keys.md`](docs/ar/wallet-and-keys.md) with right-to-left layout and localized technical terminology. Contributed by @genda-benjamin (#6).
+No code change; node pin unchanged (**0.1.14**, API 1.1.0, protocol 3.4.0).
+
+- **Arabic translation of the "Wallet and keys" guide**: [`docs/ar/wallet-and-keys.md`](docs/ar/wallet-and-keys.md) with right-to-left layout and localized technical terminology. Contributed by @genda-benjamin (#6, #9).
 
 ## 0.1.7 — 2026-11-13
 
